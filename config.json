@@ -1,5 +1,5 @@
 {
-    "ownerNumber": "6283834558105@s.whatsapp.net", 
+    "ownerNumber": "6285712974968@s.whatsapp.net", 
     "ownerName": "Lexxy Official", 
     "botName": "NEOBOT-STORE",
     "footer": "© BOTMD | 2022", 
@@ -7,21 +7,21 @@
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
     "group": "https://chat.whatsapp.com/DHf4mb8QnmC5zynElmG2tG",
-    "yootube": "https://youtube.com/channel/UCLd-bhT8Dqq9PjGc6bWUVyg",
+    "instagram": "https://instagram.com/mu3n2?igshid=YmMyMTA2M2Y=",
      
-    "QrisAllPay": "https://telegra.ph/file/d015def9028eb1c0a156b.jpg",
-    "textBarisDonate1": "Dana : 0857-8900-4732",
-    "textBarisDonate2": "Ovo : 0857-8900-4732",
-    "textBarisDonate3": "Gopay : 08xxxxxxxxx",
-    "textBarisDonate4": "Pulsa : 0857-8900-4732",
+    "QrisAllPay": "-",
+    "textBarisDonate1": "Dana : 0857-1297-4968",
+    "textBarisDonate2": "Ovo : 0857-1297-4968",
+    "textBarisDonate3": "Gopay : 085712974968",
+    "textBarisDonate4": "Pulsa : 0857-1297-4968",
   
-    "ButtonTextMenu1": "Youtube",
+    "ButtonTextMenu1": "Instagram",
     "ButtonTextMenu2": "Rest Api",
     "quickReplyButton3": "Rules",
     "quickReplyButton4": "Donasi",
     "quickReplyButton5": "Dashboard",
   
-    "ButtonMenuLink1": "https://youtube.com/channel/UCLd-bhT8Dqq9PjGc6bWUVyg",
+    "ButtonMenuLink1": "https://instagram.com/mu3n2?igshid=YmMyMTA2M2Y=",
     "ButtonMenuLink2": "https://api-lexxy-official.herokuapp.com",
     "displayTextMenu3": "rules",
     "displayTextMenu4": "donasi",
@@ -31,6 +31,6 @@
     "gamewaktu": 90,
     "sticker": {
         "packname": "© Store",
-        "author": "Lexxy Official"
+        "author": "MuuunnB"
     }
 }
